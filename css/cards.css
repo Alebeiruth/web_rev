@@ -1,0 +1,36 @@
+.card {
+    width: 150px;
+    height: 150px;
+    float: left; /* coloca cards lado a lado*/
+    margin: 5px; /* separa o card um do outro*/
+}
+
+.titulo{
+    width: 100%;
+    height: 50%;
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.genero{
+    width: 100%;
+    height: 25%;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ano{
+    width: 100%;
+    height: 25%;
+    background-color: springgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
